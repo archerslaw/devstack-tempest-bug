@@ -1,4 +1,4 @@
 devstack-tempest-bug
 ====================
 
-how to back-port bug from master and run tempest in devstack environment.
+How to back-port bug from master to stable and run tempest in devstack environment.
